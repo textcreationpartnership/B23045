@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the selling of Herrings in and neere the towne of Yarmouth during the faire there yerely kept, and for the setting at certainty of the liberties of the said faire, and Iurisdiction of the said towne during the same.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23045</idno><idno type="EEBO-CITATION">99886766</idno>
+  <idno type="VID">189397</idno>
+  <idno type="EEBO-PROQUEST">2240888651</idno>
+  
+            <idno type="STC">Wing F1438C</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7608[380-381]</idno>
+            <idno type="STC">ESTC R226571</idno>
+            <idno type="PROQUEST">ocm99886766</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886766e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189397)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:1[169])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the selling of Herrings in and neere the towne of Yarmouth during the faire there yerely kept, and for the setting at certainty of the liberties of the said faire, and Iurisdiction of the said towne during the same.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Herring industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189397:1"/>
+            <head>For the selling of Herrings in and neere the Towne of Yarmouth during the Faire there yerely kept, and for the setting at certainty of the liberties of the said Faire, and Iurisdiction of the said Towne during the same.</head>
+            <div type="part">
+               <head>The Preamble.</head>
+               <p n="1">1. THat there is and tyme out of mynde hath beene a free Faire yearely kept at <hi>Yarmouth,</hi> begining at Mi<g ref="char:EOLhyphen"/>chaelmas <note place="margin">31. <hi>Ed.</hi> 3.</note> and continuing 40. daies, which is the principall tyme of Herring fishing vpon the Sea<g ref="char:EOLhyphen"/>coasts of <hi>Norffolke,</hi> and <hi>Suffolke.</hi>
+               </p>
+               <p n="2">2. That the gouernement of the said Faire, 'doth of right, and aunciently did belong, to the <hi>Barons</hi> or <hi>Bailiffs</hi> of <note place="margin">31. <hi>Ed.</hi> 3.</note> the Cinque-ports.</p>
+               <p n="3">3. That dureing the said Faire, no Herrings ought to be bought or sould by way of forestalling, by <hi>Yarmouth</hi> men <note place="margin">31. <hi>Ed.</hi> 3. <hi>and Charter of Yarmouth</hi> 46. <hi>Ed.</hi> 3. <hi>reuiued</hi> 10. <hi>R.</hi> 2.</note> or others, on the Sea, or else where, within 7 miles distance of the said Faire, but onely in the sayd open Fayre, and that after the Fishers ships or boats be come into the Hauen of <hi>Yarmouth</hi> with their Herrings, and haue the cables drawne to the land, nor any Herrings till then to be discharged out of the said ships or boats. As by diuers Statutes and Charters appeareth.</p>
+               <p n="4">4. That it is doubtfull vppon the words of the said Statutes and Charters, how farre from the said Faire the pro<g ref="char:EOLhyphen"/>hibition of buying or selling of Herrings, out of the said Faire, doth extend.</p>
+               <p n="5">5. That <hi>Yarmouth</hi> men by colour of the said Statutes and Charters, and of certaine liberties authoritie and ad<g ref="char:EOLhyphen"/>mirall <note place="margin">Grieuance.</note> Iurisdiction to them lately graunted, doe vse (during the time of the Faire) to buy Herrings in great num<g ref="char:EOLhyphen"/>bers, of the said fishers, before their ships be come into the Hauen with their Herrings, and yet restraine fishers dwelling in remote parts, from selling to any other saue to themselues, (either within the said 7. miles, or in the roades of <hi>Lowestofe</hi> which are 8. or 9. miles distance.</p>
+               <p n="6">6. That when the said Fishermen doe come with their ships or boates into the Hauen of <hi>Yarmouth,</hi> the men of <hi>Yarmouth,</hi> haue such deuises and practises &amp;c. that by meanes thereof, the masters of Fishers ships of remote partes <note place="margin">Grieuance.</note> are inforced to be hosted with some freeman of the said towne, and not permitted to sell to any other but to their said hoasts, whereby they make a Monopoly of Merchandizing of Herrings, contrary to the meaning of the said Statutes and Charters, to the great hurt of the Common wealth, and to the discouragement and vndoing of the said Fishers, for that they being restrained, and disturbed for selling their Herrings in roading places aforesaid, they haue lost the one halfe of the profitt of their Fishing (which otherwise they might haue had) and oftentimes more.</p>
+               <p>For Remedie whereof and neuerthelesse for the preseruation of the true and ancient liberties of the said Faire according to the true meaning of ancient Statutes &amp; Charters now in force concerning the same be it inacted, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>The Act.</head>
+               <p n="1">1. THat noe Herrings during the said Faire, be bought or sold (by way of Merchandize) within 7 miles of the <note place="margin">31. <hi>Ed.</hi> 3. 10. <hi>R.</hi> 2.</note> said Faire, by <hi>Yarmouth</hi> men nor others, but in the said open Faire.</p>
+               <p>The penaltie is, that the buyer shall forfeit the value of the Herrings so bought, out of the said Faire, (and within the said 7 miles) halfe to the King, and halfe to him that will sue for the same.</p>
+               <p>Prouided that ships or boates, that haue not in them aboue a last and a halfe, may sell, within the said 7 miles, <note place="margin">32. <hi>Ed.</hi> 3.</note> and out of the said Faire (after they be anchored) and shall not be inforced, to enter the Hauen, and bring them to the said Faire.</p>
+               <p n="2">2. That the 7 miles shall be measured, from the Crane Key in <hi>Yarmouth,</hi> where the said Faire is kept, euery mile <note place="margin">16 <hi>May</hi> 1596. <hi>The Remedy sought for.</hi>
+                  </note> to containe 8 furlongs, euery furlong 40 pole, and euery pole 16 foote and a halfe.</p>
+               <p n="3">3. That it shall be lawfull for the Fishers to sell their Herrings in the said Faire, to any that will buy the same, and as lawfull for euery man there to buy, as for the Hostlers and Townesmen of <hi>Yarmouth,</hi> and to carry away the same by land or by water, as they shall thinke good.</p>
+               <p n="4">4. That all Fishers at all times shall haue free libertie to sell their Herrings in any roade or other place, (out of the said 7 miles) to any person or persons there, to buy without restraint.</p>
+               <p n="5">5. That the Corporation of <hi>Yarmouth</hi> shall haue no power to restraine the buying and selling of Herrings, (in any place without the said 7 miles) nor to take anchorage for ships or boates (out of the said 7 miles.) Or to intermed<g ref="char:EOLhyphen"/>dle with any bargaine or contract, (out of the said 7 miles) made or to be made for Herrings. <note place="margin">31. <hi>Ed.</hi> 3. 32. <hi>Ed.</hi> 3. 33. <hi>Ed.</hi> 3.</note>
+               </p>
+               <p n="6">6. That the <hi>Barons</hi> or <hi>Bayliffes</hi> of the Cinque-ports, shall haue the gouernement of the said Faire, and of doeing Iustice there in such manner, as heretofore they haue vsed to doe.</p>
+               <p n="7">7. That no by Lawe, or ordinance heretofore made or hereafter to be made, by the said Corporation of <hi>Yar<g ref="char:EOLhyphen"/>mouth</hi> (touching the gouernement of the said faire) shall be put in execution, till the same be seene and approued off, by the Iudges of the Assizes for <hi>Suffolke</hi> and <hi>Norffolke.</hi>
+               </p>
+               <p>The penalty is 40 Lib. for him that shall doe any thinge contrary to this Act.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
